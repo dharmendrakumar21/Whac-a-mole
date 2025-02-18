@@ -130,9 +130,3 @@ public class WhacAMole {
 }
 
 
-/*
- * Homework
- * - Add Multiple Piranha plants and store them in an Array
- * - Add Button on the bottom to restart game
- * - Keep track of high score and display it
- */
